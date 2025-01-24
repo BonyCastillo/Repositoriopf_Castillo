@@ -16,11 +16,11 @@ public class PROYECTO_FINAL {
     vendedor=lectura.next();
     System.out.print("Sueldo mensual: ");
     sm=lectura.nextDouble();
-    System.out.print("Venta 1: ");
+    System.out.print("Venta del vendedor 1: ");
     vt1=lectura.nextInt();
-    System.out.print("Venta 2: ");
+    System.out.print("Venta del vendedor 2: ");
     vt2=lectura.nextInt();
-    System.out.print("Venta 3: ");
+    System.out.print("Venta del vendedor 3: ");
     vt3=lectura.nextInt();
     //proceso
     c=(vt1+vt2+vt3)*0.10;
